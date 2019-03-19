@@ -22,10 +22,9 @@
                 <ImageView
                     android:id="@+id/photo"
                     android:layout_width="match_parent"
-                    android:layout_height="@dimen/detail_card_top_margin"
+                    android:layout_height="@dimen/detail_photo_height"
                     android:adjustViewBounds="true"
-                    android:scaleType="centerCrop"
-                     />
+                    android:scaleType="centerCrop" />
 
             </FrameLayout>
 
