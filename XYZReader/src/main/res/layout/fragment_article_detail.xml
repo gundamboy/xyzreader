@@ -96,6 +96,7 @@
         android:layout_height="56dp"
         android:layout_gravity="end|bottom"
         android:src="@drawable/ic_share"
-        android:elevation="@dimen/fab_elevation"/>
+        app:rippleColor="@color/colorAccent"/>
+
 
 </com.example.xyzreader.ui.DrawInsetsFrameLayout>
